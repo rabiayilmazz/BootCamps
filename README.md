@@ -9,9 +9,10 @@
 ### Deploying an Enterprise Web [LINK](https://lab.huaweicloud.com/intl/en-us/experiment-detail_1765)
 ### Compute Services Practice [LINK](https://lab.huaweicloud.com/intl/en-us/experiment-detail_1771)
 
+# Proje Koşulları & Yarışmacılardan Beklentiler
+* Huawei Cloud’u kullanarak ***bir proje ortaya koymak*** (artı puan) ya da ***var olan mobil-web projesinin clouda taşınması.***
+* Belirlenen projenin ***mimarisinin oluşturulması***. Hangi servislerin kulanılacağı belirtilmeli. 
+* Proje detaylarının ***Huawei Cloud Developer Forumda makale olarak yayınlanması.*** Oluşturulmadıysa Huawei Cloud Dev Forum hesabı oluşturulmalı.
+* Projenin pazarlığı için ***"Reklam Çekim Videosu".*** (Ek Puan getirecektir. HSD'yi etiketleyip yayınlayabilirsiniz.)
 
-# Yarışmacılardan beklenenler
-* Huawei Cloudu kullanarak bir proje oluşturmak
-* Oluşturulacak olan projenin mimarisinin oluşturulması
-* Proje detaylarının Huawei Cloud Developer Forumda makale olarak yayınlanması. Oluşturulmadıysa Huawei Cloud Dev Forum hesabı oluşturulmalı.
-* Projenin pazarlığı için "Reklam Çekim Videosu". (Ek Puan getirecektir. HSD'yi etiketleyip yayınlayabilirsiniz.)
+
